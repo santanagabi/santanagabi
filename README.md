@@ -14,19 +14,20 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Web Full Stack .NET Developer
 
 - 🔭 I’m currently working at [Mercado Eletrônico](https://www.me.com.br/)
 
 - 🌱 I’m currently learning .Net, C# and Vuejs
 
-- 📫 How to reach me: gaboliveirasantana1@gmail.com, [LinkedIn](https://www.linkedin.com/in/gabrielle-santana-developer/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabrielle-santana-developer/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, C#, .NET**
 
 - 😄 Pronouns: She/Her
 
 - ⚡ Fun fact **My favorite food is Pizza🍕**
+
 
 <div align="center">
   <a href="https://github.com/santanagabi">
