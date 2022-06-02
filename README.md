@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-- 🔥 Web Full Stack .NET Developer
+- 🔥 Web Full Stack .NET Developer and System Analysis and Development Student at Federal Institute of Education, Science and Technology of São Paulo
 
 - 🔭 I’m currently working at [Mercado Eletrônico](https://www.me.com.br/)
 
