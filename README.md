@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at [Mercado Eletrônico](https://www.me.com.br/)
 
-- 🌱 I’m currently learning .Net, C# and Vuejs
+- 🌱 I’m currently learning **.Net, C# and Vuejs**
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabrielle-santana-developer/)
 
