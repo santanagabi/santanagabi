@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabrielle-santana-developer/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, C#, .NET**
+- 💬 Ask me about **JavaScript, HTML5, CSS3, C#, .NET**
 
 - 😄 Pronouns: She/Her
 
