@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ### Hello World 👋
+#### I'm Gabrielle Santana, a brazilian programmer.
+<hr>
+
 - 🔥 Web Full Stack .NET Developer and System Analysis and Development Student at Federal Institute of Education, Science and Technology of São Paulo
 
 - 🔭 I’m currently working at [Mercado Eletrônico](https://www.me.com.br/)
