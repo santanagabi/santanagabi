@@ -41,8 +41,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="Gabi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gabi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />  
-  <img align="center" alt="Gabi-C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+  <img align="center" alt="Gabi-C" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
   <img align="right" alt="Gabi-pic" height="150" style="border-radius:50px;"
        src="https://cdn.discordapp.com/attachments/854513688428806155/942843063611559966/giff.png">  
 
