@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #### I'm Gabrielle Santana, a brazilian programmer.
 <hr>
 
-- 🔥 Web Full Stack .NET Developer and System Analysis and Development Student at Federal Institute of Education, Science and Technology of São Paulo
+- 🔥 Web Front-end Developer and System Analysis and Development Student at Union of the Pontifical Catholic University (PUC)
 
 - 🔭 I’m currently working at [Mercado Eletrônico](https://www.me.com.br/)
 
