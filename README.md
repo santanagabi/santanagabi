@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Gabi-C" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
           
 
-  <img align="right" alt="Gabi-pic" height="150" style="border-radius:50px;"
+  <img align="right" alt="Gabi-pic" height="200" style="border-radius:50px;"
        src="https://cdn.discordapp.com/attachments/854513688428806155/942843063611559966/giff.png">  
 
 </div>  
