@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Full Stack Development** at [Digital House](https://www.digitalhouse.com/br)
 
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: LinkedIn or E-mail
 
 - 💬 Ask me about **JavaScript, HTML5, CSS3 and Vuejs**
 
