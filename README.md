@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 - 🔥 Web Front-end Developer and System Analysis and Development Student at Union of the Pontifical Catholic University (PUC)
 
-- 🔭 I’m currently working at [Mercado Eletrônico](https://www.me.com.br/)
-
 - 🌱 I’m currently learning **Full Stack Development** at [Digital House](https://www.digitalhouse.com/br)
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabrielle-santana-developer/)
