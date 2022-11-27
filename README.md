@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 #### I'm Gabrielle Santana, a brazilian programmer.
 <hr>
 
-- 🔥 Web Front-end Developer and System Analysis and Development Student at Union of the Pontifical Catholic University (PUC)
+- 🔥 Web Front-end Developer and System Analysis and Development Student at [Union of the Pontifical Catholic University (PUC)](https://www.pucminas.br/destaques/Paginas/default.aspx)
 
 - 🌱 I’m currently learning **Full Stack Development** at [Digital House](https://www.digitalhouse.com/br)
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabrielle-santana-developer/)
+- 📫 How to reach me: LinkedIn
 
 - 💬 Ask me about **JavaScript, HTML5, CSS3 and Vuejs**
 
