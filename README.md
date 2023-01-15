@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AA98A9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabrielle+Santana;I'm+21+years+old;I'm+from+Brazil;I'm+Systems+Development+Student+at+PUC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd6fe2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabrielle+Santana;I'm+21+years+old;I'm+from+Brazil;I'm+Systems+Development+Student+at+PUC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santanagabi&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"  /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santanagabi&layout=compact&hide_border=true&theme=tokyonight" />
+  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santanagabi&show_icons=true&count_private=true&hide_border=true&title_color=a02798&icon_color=36aeb0&text_color=c9d1d9&bg_color=0a0a24" alt="Gabrielle Oliveira Santana github stats"  /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santanagabi&layout=compact&hide_border=true&title_color=a02798&text_color=36aeb0&bg_color=0a0a24" />
 </div>
 
 
@@ -24,3 +24,5 @@
 
 - ⚡ Fun fact **My favorite food is Pizza🍕**
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=santanagabi&bg_color=0a0a24&color=bd6fe2&line=a02798&point=36aeb0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
