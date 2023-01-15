@@ -7,6 +7,21 @@
   <img width="41%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santanagabi&layout=compact&hide_border=true&title_color=a02798&text_color=36aeb0&bg_color=0a0a24" />
 </div>
 
+### Hello World 👋
+#### I'm Gabrielle Santana, a brazilian programmer.
+<hr>
+
+- 🔥 Web Front-end Developer and System Analysis and Development Student at [Union of the Pontifical Catholic University (PUC)](https://www.pucminas.br/destaques/Paginas/default.aspx)
+
+- 🌱 I’m currently learning **Full Stack Development** at [Digital House](https://www.digitalhouse.com/br)
+
+- 📫 How to reach me: LinkedIn or E-mail
+
+- 💬 Ask me about **JavaScript, HTML5, CSS3 and Vuejs**
+
+- 😄 Pronouns: She/Her
+
+- ⚡ Fun fact **My favorite food is Pizza🍕**
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=santanagabi&bg_color=0a0a24&color=bd6fe2&line=a02798&point=36aeb0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
