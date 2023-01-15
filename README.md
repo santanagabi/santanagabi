@@ -23,6 +23,28 @@
 <a href="https://www.linkedin.com/in/gabrielle-santana-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
+### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=purple&labelColor=0D1117)&nbsp; 
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Vue.JS](https://img.shields.io/badge/-Vue.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+### Studying in this moment and stacks:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
+![CSharp](https://img.shields.io/badge/-CSharp.JS-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<div align="center">
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{santanagabi}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=120&section=footer"/>
+
 <!-- ### Hello World 👋
 #### I'm Gabrielle Santana, a brazilian programmer.
 <hr>
