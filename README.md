@@ -34,7 +34,7 @@
 ### Studying in this moment and stacks:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117)&nbsp;
-![CSharp](https://img.shields.io/badge/-CSharp.JS-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117&textColor=0D1117)&nbsp;
+![CSharp](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
