@@ -23,9 +23,6 @@
 
 - ⚡ Fun fact **My favorite food is Pizza🍕**
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=santanagabi&bg_color=0a0a24&color=bd6fe2&line=a02798&point=36aeb0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=santanagabi&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
