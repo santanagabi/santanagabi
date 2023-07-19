@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: LinkedIn or E-mail
 
-- 💬 Ask me about **JavaScript, HTML5, CSS3 and Vuejs**
+- 💬 Ask me about **JavaScript, HTML5, CSS3, Vuejs and NuxtJS**
 
 - 😄 Pronouns: She/Her
 
@@ -42,6 +42,7 @@
 ![Vue.JS](https://img.shields.io/badge/-Vue.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82);
 
 ### Studying in this moment and stacks:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
