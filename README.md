@@ -13,7 +13,7 @@
 
 - 🔥 Web Front-end Developer and System Analysis and Development Student at [Pontifical Catholic University (PUC)](https://www.pucminas.br/destaques/Paginas/default.aspx)
 
-- 🌱 I’m currently learning **Full Stack Development** at [Digital House](https://www.digitalhouse.com/br)
+- 🌱 I’m currently learning **Path Beginner** at [FrontEnd Masters](https://frontendmasters.com/learn/beginner/) 
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabrielle-santana-developer/) or E-mail
 
