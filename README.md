@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066CC&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0066CC&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+👋;I'm+Gabrielle+Santana;Front-End+Engineer+from+Brazil;Welcome+to+my+GitHub+Profile!+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20B2AA&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+👋;I'm+Gabrielle+Santana;Front-End+Engineer+from+Brazil;Welcome+to+my+GitHub+Profile!+💻)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santanagabi&show_icons=true&count_private=true&hide_border=true&title_color=0066CC&icon_color=FFD700&text_color=44475a&bg_color=ffffff" alt="Gabrielle Oliveira Santana GitHub Stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santanagabi&layout=compact&hide_border=true&title_color=0066CC&text_color=44475a&bg_color=ffffff"/>
+  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santanagabi&show_icons=true&count_private=true&hide_border=true&title_color=20B2AA&icon_color=FFD700&text_color=44475a&bg_color=ffffff" alt="Gabrielle Oliveira Santana GitHub Stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santanagabi&layout=compact&hide_border=true&title_color=20B2AA&text_color=44475a&bg_color=ffffff"/>
 </div>
 
 ---
@@ -52,7 +52,7 @@ A management system for aesthetic clinics. Includes patient registration, stock 
 
 ### 📊 My Contributions
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santanagabi&theme=react-dark&bg_color=ffffff&color=0066CC&line=0066CC&point=FFD700&hide_border=true" alt="Gabrielle's Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santanagabi&theme=react-dark&bg_color=ffffff&color=20B2AA&line=20B2AA&point=FFD700&hide_border=true" alt="Gabrielle's Contribution Graph"/>
 </div>
 
 ---
@@ -77,4 +77,4 @@ A management system for aesthetic clinics. Includes patient registration, stock 
   <p><img align="center" src="https://profile-counter.glitch.me/{santanagabi}/count.svg"/></p> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066CC&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=footer"/>
