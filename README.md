@@ -1,82 +1,80 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6D37A3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066CC&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd6fe2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabrielle+Santana;I'm+22+years+old;I'm+from+Brazil;I'm+Systems+Development+Student+at+PUC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0066CC&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+👋;I'm+Gabrielle+Santana;Front-End+Engineer+from+Brazil;Welcome+to+my+GitHub+Profile!+💻)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santanagabi&show_icons=true&count_private=true&hide_border=true&title_color=6D37A3&icon_color=00DC82&text_color=24292E&bg_color=F4F4F4" alt="Gabrielle Oliveira Santana github stats"  /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santanagabi&layout=compact&hide_border=true&title_color=6D37A3&text_color=24292E&bg_color=F4F4F4" />
+  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=santanagabi&show_icons=true&count_private=true&hide_border=true&title_color=0066CC&icon_color=FFD700&text_color=44475a&bg_color=ffffff" alt="Gabrielle Oliveira Santana GitHub Stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santanagabi&layout=compact&hide_border=true&title_color=0066CC&text_color=44475a&bg_color=ffffff"/>
 </div>
 
-### Hello World 👋
-#### I'm Gabrielle Santana, a Brazilian programmer.
-<hr>
+---
 
-- 🔥 Web Front-end Developer and System Analysis and Development Student at [Pontifical Catholic University (PUC)](https://www.pucminas.br/destaques/Paginas/default.aspx)
+### 🌟 About Me
+#### I'm Gabrielle Santana, a Front-End Engineer with a passion for building efficient and user-friendly web applications.  
+- 💻 **Front-End Engineer**, specialized in **Vue.js, React, and Node.js**.  
+- 🎓 Graduating in **System Analysis and Development** at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) (December 2024).  
+- ☁️ Currently learning **AWS Cloud Computing** at [Escola da Nuvem - AWS Re/Start](https://www.aws.training/).  
+- 💬 Open to questions about **JavaScript, Vue.js, React, Node.js, MongoDB, and SQL**.  
+- 🎶 Fun fact: **I'm a big fan of K-pop! My bias is BTS 💜.**  
 
-- 🌱 I’m currently learning **Path Beginner** at [FrontEnd Masters](https://frontendmasters.com/learn/beginner/) 
+---
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gabrielle-santana-developer/) or E-mail
+### 🛠️ Technologies & Tools
+#### Languages & Frameworks:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=44475a)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-42B883?style=for-the-badge&logo=vue.js&labelColor=44475a)&nbsp;
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&labelColor=44475a)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&labelColor=44475a)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=44475a)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&labelColor=44475a)&nbsp;
 
-- 💬 Ask me about **JavaScript, HTML5, CSS3, Vuejs, and NuxtJS**
+#### Databases:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=44475a)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&labelColor=44475a)&nbsp;
 
-- 😄 Pronouns: She/Her
+#### Tools & Platforms:
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&labelColor=44475a)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&labelColor=44475a)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&labelColor=44475a)&nbsp;
 
-- ⚡ Fun fact **My favorite food is Pizza🍕**
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santanagabi&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+### 🚀 Featured Projects
+#### 🌟 [Pokédex Search](https://github.com/santanagabi/pokedex-search)
+A Pokémon search app with filters, pagination, and sorting.  
+**Technologies**: Vue.js, Vuex, Nuxt.js, RESTful API.  
 
+#### 🌟 [Aesthetic Clinic Management](https://github.com/santanagabi/pmv-ads-2024-2-e5-proj-clinica-estetica)
+A management system for aesthetic clinics. Includes patient registration, stock control, and detailed reporting.  
+**Technologies**: React, Node.js, MongoDB, Prisma, RESTful APIs.  
+
+---
+
+### 📊 My Contributions
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santanagabi&theme=react-dark&bg_color=ffffff&color=0066CC&line=0066CC&point=FFD700&hide_border=true" alt="Gabrielle's Contribution Graph"/>
+</div>
+
+---
+
+### 📫 Let's Connect!
 <div align="center"> 
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/channel/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:gaboliveirasantana1@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:gaboliveirasantana1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/gabrielle-santana-developer/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://github.com/santanagabi" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
 </div>
 
-### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=24292E)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=24292E)&nbsp; 
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=24292E)&nbsp;
-![Vue.JS](https://img.shields.io/badge/-Vue.JS-4FC08D?style=for-the-badge&logo=vue.js&labelColor=24292E&textColor=24292E)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&labelColor=24292E&textColor=24292E)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&labelColor=24292E&textColor=24292E)&nbsp;
-![Nuxtjs](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=24292E)
-
-### Studying at this moment and stacks:
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=24292E)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&labelColor=24292E)&nbsp;
-![CSharp](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c-sharp&labelColor=24292E&textColor=24292E)&nbsp;
+---
 
 <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{santanagabi}/count.svg" /></p> 
-<br>
+  <p><b>Visitors Count:</b></p>  
+  <p><img align="center" src="https://profile-counter.glitch.me/{santanagabi}/count.svg"/></p> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6D37A3&height=120&section=footer"/>
-
-
-<!-- ### Hello World 👋
-#### I'm Gabrielle Santana, a brazilian programmer.
-<hr>
-
-- 🔥 Web Front-end Developer and System Analysis and Development Student at [Union of the Pontifical Catholic University (PUC)](https://www.pucminas.br/destaques/Paginas/default.aspx)
-
-- 🌱 I’m currently learning **Full Stack Development** at [Digital House](https://www.digitalhouse.com/br)
-
-- 📫 How to reach me: LinkedIn or E-mail
-
-- 💬 Ask me about **JavaScript, HTML5, CSS3 and Vuejs**
-
-- 😄 Pronouns: She/Her
-
-- ⚡ Fun fact **My favorite food is Pizza🍕** -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0066CC&height=120&section=footer"/>
