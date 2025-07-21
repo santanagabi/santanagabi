@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=20B2AA&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+👋;I'm+Gabrielle+Santana;Front-End+Engineer+from+Brazil;Welcome+to+my+GitHub+Profile!+💻)](https://git.io/typing-svg)
 
@@ -10,12 +10,13 @@
 ---
 
 ### 🌟 About Me
-#### I'm Gabrielle Santana, a Front-End Engineer with a passion for building efficient and user-friendly web applications.  
-- 💻 **Front-End Engineer**, specialized in **Vue.js, React, and Node.js**.  
-- 🎓 Graduating in **System Analysis and Development** at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx) (December 2024).  
-- ☁️ Currently learning **AWS Cloud Computing** at [Escola da Nuvem - AWS Re/Start](https://www.aws.training/).  
-- 💬 Open to questions about **JavaScript, Vue.js, React, Node.js, MongoDB, and SQL**.  
-- 🎶 Fun fact: **I'm a big fan of K-pop! My bias is BTS 💜.**  
+#### I'm Gabrielle Santana, a Front-End Engineer passionate about user experience and clean code.  
+- 💻 **Front-End Engineer**, experienced with **Vue.js, React, Node.js**.  
+- ☁️ AWS Certified [Cloud Practitioner](https://www.credly.com/badges/05b2463f-29e5-44ab-912d-9f6681bbf3cb/linked_in_profile).  
+- 🎓 Graduated in **System Analysis and Development** at [PUC Minas](https://www.pucminas.br).  
+- 🎓 Currently studying **Postgraduate in Strategic IT Management** at [IFSP](https://www.ifsp.edu.br/) (Feb 2025 – Jul 2026).  
+- 💬 Open to tech conversations around **JavaScript, Vue.js, React, Node.js, MongoDB, SQL, and Cloud**.  
+- 🎮 Geek culture enthusiast and fan of K-Dramas.
 
 ---
 
@@ -74,7 +75,7 @@ A management system for aesthetic clinics. Includes patient registration, stock 
 
 <div align="center">
   <p><b>Visitors Count:</b></p>  
-  <p><img align="center" src="https://profile-counter.glitch.me/{santanagabi}/count.svg"/></p> 
+  <p><img align="center" src="https://profile-counter.glitch.me/santanagabi/count.svg"/></p> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=20B2AA&height=120&section=footer"/>
