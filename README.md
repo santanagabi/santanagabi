@@ -87,6 +87,7 @@
 
 |  | Quest | Loot Earned |
 |--|-------|------------|
+| 🟣 | [**FX Checker**](https://github.com/santanagabi/fx-checker) — Modern currency exchange application featuring real-time conversion, market dashboard, historical charts, comparison tools, and persistent favorites built with Angular 19. | `Angular 19` `TypeScript` `RxJS` `Signals` `Chart.js` `REST API` |
 | 🔴 | [**Pokédex Search**](https://github.com/santanagabi/pokedex-search) — Pokémon search with filters, pagination & sorting | `Vue.js` `Vuex` `Nuxt.js` `REST API` |
 | 🟢 | [**Aesthetic Clinic Manager**](https://github.com/santanagabi/pmv-ads-2024-2-e5-proj-clinica-estetica) — Full system: patients, stock & reports | `React` `Node.js` `MongoDB` `Prisma` |
 
